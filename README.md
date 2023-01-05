@@ -30,9 +30,28 @@ Nitrogen modpack, focusing on optimizing the vanilla experience
 > - 1.17 needs to use Java16, please check the Java version you are using
 > - 1.16 Using Java16 may cause a crash, please check the Java version you are using
 
-
+# Gallery
 <details>
-  <summary>中文</summary>
+
+![1](https://i.imgur.com/DiapAJu.png)
+ ![2](https://i.imgur.com/Wtcbk85.png)
+ ![3](https://i.imgur.com/DiapAJu.png)
+ ![4](https://i.imgur.com/QnwbpYk.png)
+ ![5](https://i.imgur.com/d67IrSK.png)
+ ![6](https://i.imgur.com/H6jdnIy.png)
+ ![7](https://i.imgur.com/oPFTHMU.png)
+ ![8](https://i.imgur.com/QVXIlPp.png)
+ ![9](https://i.imgur.com/eHtHGjp.png)
+ ![10](https://i.imgur.com/bkewIgD.png)
+ ![11](https://i.imgur.com/6CCu2Kn.png)
+ ![12](https://i.imgur.com/YaSc368.png)
+ ![13](https://i.imgur.com/4ptaIju.png)
+ 
+</details>
+
+# 其他语言
+<details>
+ <summary>中文</summary>
   
   既然是国人写的，那就再用中文写一遍吧 ~~（虽然在[mcbbs](https://www.mcbbs.net/thread-1212452-1-1.html)上已经写过了）~~ 
   
