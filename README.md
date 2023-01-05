@@ -1,3 +1,7 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01GP0NZP4H2TT2ZQSJKDF63MZ0/green.svg)](https://badges.toozhao.com/stats/01GP0NZP4H2TT2ZQSJKDF63MZ0 "Get your own page views count badge on badges.toozhao.com")  ![GitHub](https://img.shields.io/github/license/tlwsy/Nitrogen?style=flat-square)  ![GitHub all releases](https://img.shields.io/github/downloads/tlwsy/Nitrogen/total?style=flat-square)
+
+If you like,please star :)
+
 # About Nitrogen
 Nitrogen modpack, focusing on optimizing the vanilla experience
 
@@ -30,10 +34,10 @@ Nitrogen modpack, focusing on optimizing the vanilla experience
 <details>
   <summary>中文</summary>
   
-  既然是中国人写的，那就再用中文写一遍吧 ~~（虽然在[mcbbs](https://www.mcbbs.net/thread-1212452-1-1.html)上已经写过了）~~ 
+  既然是国人写的，那就再用中文写一遍吧 ~~（虽然在[mcbbs](https://www.mcbbs.net/thread-1212452-1-1.html)上已经写过了）~~ 
   
 
-![](https://imgse.com/i/pSACdLn)
+ [![pSACdLn.md.png](https://s1.ax1x.com/2023/01/05/pSACdLn.md.png)](https://imgse.com/i/pSACdLn)
 # 氮元素
 
 >  氮元素整合包，致力于优化原版体验
