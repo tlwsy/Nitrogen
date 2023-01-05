@@ -54,24 +54,51 @@ Nitrogen modpack, focusing on optimizing the vanilla experience
  <summary>中文</summary>
   
   既然是国人写的，那就再用中文写一遍吧 ~~（虽然在[mcbbs](https://www.mcbbs.net/thread-1212452-1-1.html)上已经写过了）~~ 
-  
-
- [![pSACdLn.md.png](https://s1.ax1x.com/2023/01/05/pSACdLn.md.png)](https://imgse.com/i/pSACdLn)
+<div  align="center">  
+<img src="https://s1.ax1x.com/2023/01/05/pSACdLn.md.png" width="20%">
+</div>
+ 
 # 氮元素
 
 >  氮元素整合包，致力于优化原版体验
 
 ## 关于该整合包
 
-氮元素是基于fabric的原版整合，致力于优化原版游戏体验
-作者对于原版生存情有独钟，跟随Mojang新版步伐，但常常苦于无法找到适合自己的整合包，便制作出氮元素
-整合包经过一定时间的调整后，使用方便快捷
+> 
+> 氮元素是基于fabric的原版整合，致力于优化原版游戏体验
+> 
+> 作者对于原版生存情有独钟，跟随Mojang新版步伐，但常常苦于无法找到适合自己的整合包，便制作出氮元素
+> 
+> 整合包经过一定时间的调整后，使用方便快捷
 
 ## 为什么选择该整合包？
-易用：只需熟悉键位，即可开始使用（默认键位基本无冲突）
-快捷：提供多种下载渠道，总有适合你
-有效：提交建议和错误，将在下个版本中修复
-
+> 
+> 易用：只需熟悉键位，即可开始使用（默认键位基本无冲突）
+> 
+> 快捷：提供多种下载渠道，总有适合你
+> 
+> 有效：提交建议和错误，将在下个版本中修复
+ 
+## 图片展示
+ 
+ ![1](https://i.imgur.com/DiapAJu.png)
+ 
+ <details>
+  
+ ![2](https://i.imgur.com/Wtcbk85.png)
+ ![3](https://i.imgur.com/DiapAJu.png)
+ ![4](https://i.imgur.com/QnwbpYk.png)
+ ![5](https://i.imgur.com/d67IrSK.png)
+ ![6](https://i.imgur.com/H6jdnIy.png)
+ ![7](https://i.imgur.com/oPFTHMU.png)
+ ![8](https://i.imgur.com/QVXIlPp.png)
+ ![9](https://i.imgur.com/eHtHGjp.png)
+ ![10](https://i.imgur.com/bkewIgD.png)
+ ![11](https://i.imgur.com/6CCu2Kn.png)
+ ![12](https://i.imgur.com/YaSc368.png)
+ ![13](https://i.imgur.com/4ptaIju.png)
+ 
+</details>
 
 ## FAQ
 > **Q：** 我可以使用该整合包进入原版服务器吗？
