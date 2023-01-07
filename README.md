@@ -2,6 +2,9 @@
 
 If you like,please star :)
 
+Goto [modrinth](https://modrinth.com/modpack/nitrogen7) to download to support me!
+Thank you so much!
+
 # About Nitrogen
 Nitrogen modpack, focusing on optimizing the vanilla experience
 
@@ -58,6 +61,9 @@ Nitrogen modpack, focusing on optimizing the vanilla experience
 <img src="https://s1.ax1x.com/2023/01/05/pSACdLn.md.png" width="20%">
 </div>
  
+**你可以前往[modrinth](https://modrinth.com/modpack/nitrogen7)下载以支持我！**
+**感谢你的支持！**
+
 # 氮元素
 
 >  氮元素整合包，致力于优化原版体验
