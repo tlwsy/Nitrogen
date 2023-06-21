@@ -1,5 +1,7 @@
 [![Page Views Count](https://badges.toozhao.com/badges/01GP0NZP4H2TT2ZQSJKDF63MZ0/green.svg)](https://badges.toozhao.com/stats/01GP0NZP4H2TT2ZQSJKDF63MZ0 "Get your own page views count badge on badges.toozhao.com")  ![GitHub](https://img.shields.io/github/license/tlwsy/Nitrogen?style=flat-square)  ![GitHub all releases](https://img.shields.io/github/downloads/tlwsy/Nitrogen/total?style=flat-square)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlwsy)](https://github.com/anuraghazra/github-readme-stats)
+
 If you like,please star :)
 
 Goto [modrinth](https://modrinth.com/modpack/nitrogen7) to download to support me!
